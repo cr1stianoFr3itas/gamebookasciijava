@@ -1,3 +1,16 @@
+
+/*
+   Dev. Cristiano Freitas
+   email: junior.brown.eda@gmail.com
+   Data de inicio do projeto: 05/04/2020
+   Data de "Final" do projeto: 07/04/2020
+   
+
+*/
+
+
+
+
 package uruborosKrakato;
 
  import java.util.*;
